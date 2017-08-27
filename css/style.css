@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    position: relative;
+}
+
+p {
+    width: 100px;
+    position: absolute;
+    left: 50%;
+    top: 0px;
+    color: #000;
+    font-family: "Microsoft Yahei";
+    font-size: 17px;
+}
+
+select {
+    width: 100px;
+    position: absolute;
+    left: 50%;
+    top: 18px;
+    margin-left: 70px;
+    color: #000;
+    font-family: "Microsoft Yahei";
+    font-size: 14px;
+}
